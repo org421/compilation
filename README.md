@@ -1,4 +1,4 @@
-** Compiler for the CPYRR language **
+**Compiler for the CPYRR language**
 
 - Definition of syntax and semantics for the CPYRR language
 - Syntax and semantic analysis and filling of lexical tables, declarations, etc...
